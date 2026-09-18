@@ -1,0 +1,22 @@
+# Visual Studio build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+*.user
+*.suo
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.iobj
+*.ipdb
+*.exe
+*.log
+*.tlog
+*.recipe
+*.aps
+.vs/
